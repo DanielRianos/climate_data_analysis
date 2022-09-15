@@ -2,7 +2,7 @@
 
 Intensive review of a big dataset which contained several thousands of records. It follows a meticulous process of data cleaning and preparation to conduct a further analysis via interactive plots. 
 
-## Milestones :dart:
+## :dart: Milestones 
 
 ● Process a big climate dataset distributed across several thousands .csv files
 

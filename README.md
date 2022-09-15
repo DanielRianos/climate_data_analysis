@@ -1,4 +1,4 @@
-# European climate data analysis from 1756 until 2022 :earth_europe:
+# European climate data analysis from 1756 until 2022 :earth_asia:
 
 Intensive review of a big dataset which contained several thousands of records. I follows a meticulous process of data cleaning and preparation to conduct a further analysis via interactive plots. 
 
